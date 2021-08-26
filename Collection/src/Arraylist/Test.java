@@ -34,7 +34,7 @@ public class Test {
 		tush.put(5, "disha");
 		
 		Set st = tush.entrySet();
-		
+	//GIT	
 //		Iterator it = st.iterator();
 //		
 //		System.out.println("All keys are: " + st);
